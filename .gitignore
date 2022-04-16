@@ -1,3 +1,7 @@
 wake_word_dataset/
 intent_classifier_data/
+__pycache__/
 save_pt_model.txt
+tf_wwd_prediction.py
+tf_wwd_prediction_parallel.py
+tf_wwd_training.py
